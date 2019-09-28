@@ -1,4 +1,4 @@
-# Reproducible_research_assessment_I_Coursera
+# Reproducible research assessment I. Coursera
 
 ## Introduction
 
